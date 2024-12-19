@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhonatan</h1>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![image](https://github.com/user-attachments/assets/b4cbf8ac-276a-4ec4-87e3-43b84189696e)
+
 
 
 
